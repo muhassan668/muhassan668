@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hassan
 
-<!--
-**muhassan668/muhassan668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence student learning C++, Python, Data Structures, and practical software development.
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Object-Oriented Programming
+- Python
+- Web Scraping
+- Jupyter Notebook
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Food Delivery CLI System in C++
+- Matrix Solver in Python
+- Python Data Analysis Practice
+- Web Scraping Practice
+- OOP Library Management System
+
+## Current Learning
+- Data Structures and Algorithms
+- Python libraries: Pandas, NumPy, Matplotlib, BeautifulSoup
+- GitHub project management
